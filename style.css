@@ -256,5 +256,6 @@ footer {
 }
 
 .fade-in {
-    animation: fade 1s ease-out;
+    animation: fade 1s ease-out
+    ;
 }
